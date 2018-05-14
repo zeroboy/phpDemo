@@ -1,0 +1,6 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "^5.3",
+        "php-curl-class/php-curl-class": "^8.0"
+    }
+}
